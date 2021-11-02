@@ -1,0 +1,8 @@
+com/example/gameapp/BuildConfig.java
+ com.example.gameapp.BuildConfig
+com/example/gameapp/MainActivity.java
+ com.example.gameapp.MainActivity
+com/example/gameapp/Formulario.java
+ com.example.gameapp.Formulario
+com/example/gameapp/FinalActivity.java
+ com.example.gameapp.FinalActivity
